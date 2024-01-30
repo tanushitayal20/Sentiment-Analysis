@@ -10,6 +10,5 @@ Framework to host the project: Streamlit
 
 Overview:
 
-![image](https://github.com/tanushitayal20/Sentiment-Analysis/assets/86786122/2e800f4b-6639-4ef6-81d4-cc6a63954448)
-
+![image](https://github.com/tanushitayal20/Sentiment-Analysis/assets/86786122/81362188-7252-4c8a-a421-0cded04028e6)
 
