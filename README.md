@@ -12,3 +12,7 @@ Overview:
 
 ![image](https://github.com/tanushitayal20/Sentiment-Analysis/assets/86786122/81362188-7252-4c8a-a421-0cded04028e6)
 
+After text input:
+
+![image](https://github.com/tanushitayal20/Sentiment-Analysis/assets/86786122/4f070053-8b92-4a58-9dfa-5476fd418ab5)
+
