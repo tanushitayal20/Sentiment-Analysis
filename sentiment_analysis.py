@@ -1,5 +1,5 @@
 ###
-# streamlit run <folder_name>\sentiapp.py
+# streamlit run <folder_name>\sentiment_analysis.py
 ###
 #This code has been written by Tanushi Tayal
 
