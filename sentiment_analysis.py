@@ -48,7 +48,7 @@ st.write("This project will help you analyse whether the text being input holds 
 st.write("Index:")
 st.write("1. Postive: Sentences that implicate postive emotions like happiness, satisfaction, excitement, etc. These sentences have polarity ranging from 0.5 to 1.")
 st.write("2. Slightly Postive: Sentences that implicate postive emotions like happiness, satisfaction, excitement, etc but on a slightly lesser intensity. These sentences have polarity ranging from 0 to 0.5.")
-st.write("3. Postive: Sentences that implicate neither postive nor negative emotions. These sentences have polarity of 0.")
+st.write("3. Neutral: Sentences that implicate neither postive nor negative emotions. These sentences have polarity of 0.")
 st.write("4. Slightly Negative: Sentences that implicate negative emotions like sadness, anxiety, disappointment, etc but on a slightly lesser intensity. These sentences have polarity ranging from -0.5 to 0.")
 st.write("5. Negative: Sentences that implicate negative emotions like sadness, anxiety, disappointment, etc. These sentences have polarity ranging from -1 to -0.5.")
 
